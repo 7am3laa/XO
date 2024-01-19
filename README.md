@@ -13,6 +13,8 @@ This Flutter application allows users to play the classic XO game. The game supp
 - Dynamic display of current player's Score
 - Win detection based on traditional X - O rules
 - Reset button to start a new game
+- In case of loss, the loser is the one who starts the game
+
 
 ## Screenshots
 
