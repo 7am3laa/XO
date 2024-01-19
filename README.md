@@ -19,7 +19,7 @@ This Flutter application allows users to play the classic XO game. The game supp
 
 - Apk for android 
 
-[app-release.apk](build%2Fapp%2Foutputs%2Fflutter-apk%2Fapp-release.apk)
+     [app-release.apk](build%2Fapp%2Foutputs%2Fflutter-apk%2Fapp-release.apk)
 
 ## Screenshots
 
