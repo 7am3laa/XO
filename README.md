@@ -15,6 +15,11 @@ This Flutter application allows users to play the classic XO game. The game supp
 - Reset button to start a new game
 - In case of loss, the loser is the one who starts the game
 
+## APK
+
+- download 
+        ![Download](https://github.com/7am3laa/XO/releases/tag/v1/app-release.apk)
+
 ## Screenshots
 
 - Splash Screen
