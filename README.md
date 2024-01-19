@@ -16,7 +16,7 @@ This Flutter application allows users to play the classic XO game. The game supp
 
 ## Screenshots
 
-![Splash Screen](screenshots%2Fsplash%20screen.png))
+![Splash Screen](screenshots%2Fsplash%20screen.png)
 ![Home Screen](screenshots%2FHome%20screen.png)
 ![win x](screenshots%2Fwin.png)
 ![win o](screenshots%2Fwin%20o.png)
