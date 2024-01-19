@@ -36,5 +36,3 @@ This Flutter application allows users to play the classic XO game. The game supp
 - Draw
 
 ![draw](screenshots%2Fdraw.png)
-
-
